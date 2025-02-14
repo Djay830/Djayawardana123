@@ -1,25 +1,12 @@
 👋 Hi, I'm Dinesha Jayawardana
 
-**About Me**
+🌱 Experienced Statistician (10+ years) specializing in applied research for a sustainable future. My work encompasses crops 🌾, livestock 🐄, environment 🌎, climate change 🌡️, and socio-economic impacts 📊
 
-I'm passionate about the applications of quantitative genetics in both animal 🐄 and plant 🌾 breeding. My research interests include:
-
-*   Quantitative Genetics
-*   Animal Breeding
-*   Plant Breeding
-*   Genome-Wide Association Studies (GWAS)
-*   Experimental Design
-
-**Currently Learning**
-
-I'm currently deepening my knowledge of GWAS in plant breeding.
-
-**Collaboration**
+🧬 I'm passionate about leveraging genetics and breeding to address critical global challenges. 
 
 I'm eager to collaborate on projects involving statistical data analysis for animal and plant breeding.
 
 **Research/Website:** https://scholar.google.com/citations?user=dvAJddUAAAAJ&hl=en&oi=sra
-
 
 Let's connect!
 
