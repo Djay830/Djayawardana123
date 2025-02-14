@@ -10,7 +10,6 @@ I'm eager to collaborate on projects involving statistical data analysis for ani
 
 Let's connect!
 
-djayawardana.r@gmail.com
 
 <!---
 Djayawardana123/Djayawardana123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
